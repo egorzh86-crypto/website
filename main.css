@@ -1,0 +1,108 @@
+#tema1 {
+    letter-spacing: 5px;
+    color: blue
+}
+
+#tema2 {
+    color: blue;
+}
+
+#zag {
+    color: blue;
+    text-decoration: line-through;
+    padding-left: 290px
+}
+
+#yach1 {
+    font-weight: bold;
+    font-style: italic;
+}
+
+#yach2 {
+    background-color: black;
+    color: white;
+}
+
+#y3 {
+    background-color: aqua;
+    color: blue;
+}
+
+#yach4 {
+    background-color:deeppink;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+#yach5 {background-color: yellow;}
+
+#yach6 {color: blue}
+
+#yach7 {}
+
+#yach8 {color: blue}
+
+#yach9 {}
+
+#yach10 {color: blue}
+
+
+#zadachi {
+    background-color: aqua
+}
+
+#zadachi1 {
+    color: black;
+    font-weight: bold;
+}
+
+#resh {
+    color: red
+}
+
+#cherta {
+    text-decoration: underline;
+    background-color: yellow;
+}
+
+#ser {
+    background-color: darkgray;
+}
+
+#red2 {}
+
+#red3 {
+    background-color: darkgray
+}
+
+#pod {
+    text-decoration: underline;
+    color: blue
+}
+
+#pod2 {
+    font-size: 32px
+}
+
+#pod3 {
+    text-decoration: underline;
+}
+
+#pod4 {
+    text-decoration: underline;
+}
+
+#pod5 {
+    font-style: italic;
+    color: blue
+}
+
+#pod6 {
+    font-style: italic;
+    color: red
+}
+
+#pod7 {
+    background-color: blueviolet;
+    font-size: 32px;
+}
